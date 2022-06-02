@@ -23,8 +23,8 @@ const projects = [
     },
     {
         image: './assets/images/rentacarimage.png',
-        name: 'Ridex',
-        description: 'Website de uma empresa focada em aluguel de carros.',
+        name: 'Em Breve',
+        description: '',
         demo: '#', 
         technologies: ['React', 'Styled-Components',],
         web: 'website'
