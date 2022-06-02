@@ -25,7 +25,7 @@ const projects = [
         image: './assets/images/rentacarimage.png',
         name: 'Ridex',
         description: 'Website de uma empresa focada em aluguel de carros.',
-        demo: 'https://ridexweb.vercel.app/', 
+        demo: '#', 
         technologies: ['React', 'Styled-Components',],
         web: 'website'
     },
