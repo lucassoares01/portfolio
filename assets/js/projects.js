@@ -38,6 +38,14 @@ const projects = [
         web: 'website'
     },
     {
+        image: './assets/images/devnotes.png',
+        name: 'DevNotes',
+        description: 'Webapp de notas com CRUD completo.',
+        demo: 'https://devnotesweb.vercel.app/', 
+        technologies: ['React', 'Styled-Components'],
+        web: 'webapp'
+    },
+    {
         image: './assets/images/financesapp.png',
         name: 'My Finances',
         description: 'Webaplicação de controle de finanças pessoais',
