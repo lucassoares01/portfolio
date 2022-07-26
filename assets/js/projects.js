@@ -22,6 +22,14 @@ const projects = [
         web: 'website'
     },
     {
+        image: './assets/images/feedbackui.png',
+        name: 'Feedback UI',
+        description: 'Web Aplcação de feedback para um produto ou serviço.',
+        demo: 'feedback-uiweb.vercel.app',
+        technologies: ['React', 'CSS'],
+        web: 'webapp'
+    },
+    {
         image: './assets/images/easybank.png',
         name: 'Easybank',
         description: 'Website de um banco virtual chamado easybank.',
