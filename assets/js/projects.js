@@ -6,6 +6,14 @@ const allFilter = document.querySelector('#all-filter')
 
 const projects = [
     {
+        image: './assets/images/gamingstore.png',
+        name: 'Gaming Store',
+        description: 'Web Aplcação de carrinho de compras com periféricos.',
+        demo: 'https://gaming-storeweb.vercel.app',
+        technologies: ['React', 'Styled-Components'],
+        web: 'webapp'
+    },
+    {
         image: './assets/images/fornowebsite.png',
         name: 'Restaurante Forno',
         description: 'Website apresentando um restaurante chamador forno.',
